@@ -16,7 +16,9 @@ background-color: #f5ad69;
 text-align: center;
 font-size: 15px;
 }
-
+#submit{
+  text-align: left;
+}
 @media screen and (min-width: 480px) {
 label {
   color: white;
