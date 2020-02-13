@@ -1,27 +1,39 @@
 
 html {
-  background-color: #E8A87C;
+  padding-right: 3em;
+  background-color: #C38D9E;
   text-align: left;
   font-size: 1.125em;
-  line-height: 1.3333333333em;
+  line-height: 1.3em;
 }
 h1 {
   font-size: 2em;
-  line-height: 2.6666666667em;
+  line-height: 2.5em;
   padding-top: 1.5em;
 }
 h2 {
   font-weight: bold;
   font-size: 1.125em;
-  line-height: 1.3333333333em;
+  line-height: 1.5em;
 }
 #submit{
   text-align: center;
   height: 2em;
   width: 6em;
   background-color: #E27D60;
+  border-color: #E8A87C;
 }
 @media screen and (min-width: 480px) {
+h1 {
+  font-size: 1.125em;
+  line-height: 1.5em;
+  padding-top: 1em;
+}
+html {
+  padding-right: 1em;
+  font-size: 1em;
+  line-height: 1.125em;
+}
 label {
   font-size: 15px;
   text-align: left;
