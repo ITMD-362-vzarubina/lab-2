@@ -5,16 +5,16 @@ html {
  text-align: left;
 }
 h1 {
+  padding-top: 1.5em;
   font-size: 30px;
-  line-height: 2.4em;
 }
 h2 {
   font-weight: bold;
 }
 label {
-background-color: #f5ad69;
-text-align: left;
-font-size: 15px;
+  background-color: #f5ad69;
+  text-align: left;
+  font-size: 15px;
 }
 #submit{
   text-align: left;
@@ -26,5 +26,6 @@ label {
   margin-right: 5px;
   font-size: 1.3em;
   font-size: 15px;
+  text-align: left;
 }
 }
