@@ -22,6 +22,9 @@ label {
   height: 2em;
   width: 6em;
 }
+div {
+  padding: 2em;
+}
 @media screen and (min-width: 480px) {
 label {
   color: white;
