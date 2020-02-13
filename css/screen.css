@@ -1,23 +1,22 @@
 
 html {
- font-family: tahoma;
- text-align: left;
+  font-family: tahoma;
+  text-align: left;
+  font-size: 1.125em;
+  line-height: 1.3333333333em;
+  padding: 1.3333333333em;
 }
 h1 {
+  font-size: 2em;
+  line-height: 2.6666666667em;
   padding-top: 1.5em;
-  font-size: 30px;
-  line-height: 2.4 em;
 }
 h2 {
   font-weight: bold;
-  font-size: 15px;
-  line-height: 1.2em;
 }
 label {
-  line-height: 1.2em;
   background-color: #f5ad69;
   text-align: left;
-  font-size: 15px;
 }
 #submit{
   text-align: left;
