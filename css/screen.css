@@ -1,5 +1,8 @@
-
+body{
+  background-color: #E8A87C;
+}
 html {
+  background-color: #C38D9E;
   text-align: left;
   font-size: 1.125em;
   line-height: 1.3333333333em;
@@ -14,23 +17,13 @@ h1 {
 h2 {
   font-weight: bold;
 }
-label {
-  background-color: #f5ad69;
-  text-align: left;
-}
 #submit{
   text-align: left;
   height: 2em;
   width: 6em;
 }
-div {
-  text-align: left;
-  padding: 1em;
-}
 @media screen and (min-width: 480px) {
 label {
-  color: white;
-  background-color: red;
   font-size: 15px;
   text-align: left;
 }
