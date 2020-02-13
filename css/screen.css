@@ -2,7 +2,7 @@
 html {
  line-height: 1.2em;
  font-family: tahoma;
- text-align: center;
+ text-align: left;
 }
 h1 {
   font-size: 30px;
@@ -13,7 +13,7 @@ h2 {
 }
 label {
 background-color: #f5ad69;
-text-align: center;
+text-align: left;
 font-size: 15px;
 }
 #submit{
@@ -25,8 +25,6 @@ label {
   background-color: red;
   margin-right: 5px;
   font-size: 1.3em;
-  width: 50%;
-  margin: auto;
   font-size: 15px;
 }
 }
