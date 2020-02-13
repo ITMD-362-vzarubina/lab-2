@@ -12,7 +12,6 @@ h2 {
   font-weight: bold;
 }
 label {
-display: inline-block;
 background-color: #f5ad69;
 text-align: center;
 font-size: 15px;
@@ -20,7 +19,6 @@ font-size: 15px;
 
 @media screen and (min-width: 480px) {
 label {
-  display: inline-block;
   color: white;
   background-color: red;
   margin-right: 5px;
@@ -28,10 +26,5 @@ label {
   width: 50%;
   margin: auto;
   font-size: 15px;
-}
-
-div {
-  display: inline;
-
 }
 }
