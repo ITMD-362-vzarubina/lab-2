@@ -1,26 +1,25 @@
-body{
-  background-color: #E8A87C;
-}
+
 html {
-  background-color: #C38D9E;
+  background-color: #E8A87C;
   text-align: left;
   font-size: 1.125em;
   line-height: 1.3333333333em;
-  padding: 1.3333333333em;
 }
 h1 {
-  padding: 2em;
   font-size: 2em;
   line-height: 2.6666666667em;
   padding-top: 1.5em;
 }
 h2 {
   font-weight: bold;
+  font-size: 1.125em;
+  line-height: 1.3333333333em;
 }
 #submit{
-  text-align: left;
+  text-align: center;
   height: 2em;
   width: 6em;
+  background-color: #E27D60;
 }
 @media screen and (min-width: 480px) {
 label {
